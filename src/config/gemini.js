@@ -1,6 +1,6 @@
 // npm install @google/generative-ai
 
-const GEMINI_API_KEY = "AIzaSyDARuyAIPrev1LNrIXtYe5Onh5bfzqIv1I"
+const GEMINI_API_KEY = "YOUR API KEY"
 import {
     GoogleGenerativeAI,
     HarmCategory,
